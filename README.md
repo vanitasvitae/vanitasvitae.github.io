@@ -8,7 +8,7 @@ I'm working on some free software projects in my spare time. In my opinion free 
 
 ### **smack-omemo**
 
-[<img src="http://vectorlogofree.com/wp-content/uploads/2014/04/24233-github-logo-in-a-rounded-square-icon-vector-icon-vector-eps.png" data-canonical-src="http://vectorlogofree.com/wp-content/uploads/2014/04/24233-github-logo-in-a-rounded-square-icon-vector-icon-vector-eps.png" width="60" height="60" />](https://github.com/vanitasvitae/smack-omemo)
+[<img src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" data-canonical-src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" width="60" height="60" />](https://github.com/vanitasvitae/smack-omemo)
 
 This is my most recent project that started as part of my bachelors thesis.
 smack-omemo is an implementation of [OMEMO](https://conversations.im/omemo/) encryption for the XMPP library [Smack](https://igniterealtime.org/projects/smack/index.jsp). I chose this as the topic of my bachelors thesis, since I'm very interested in cryptography and I believe, that using strong encryption is necessary for a functional democracy. Implementing this functionality is my political activism against the growing surveillance state.
@@ -28,7 +28,7 @@ Later I'll add my bachelors thesis here as well.
 ### **dandelion\***
 
 [![F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)](https://f-droid.org/repository/browse/?fdid=com.github.dfa.diaspora_android) 
-[<img src="http://vectorlogofree.com/wp-content/uploads/2014/04/24233-github-logo-in-a-rounded-square-icon-vector-icon-vector-eps.png" data-canonical-src="http://vectorlogofree.com/wp-content/uploads/2014/04/24233-github-logo-in-a-rounded-square-icon-vector-icon-vector-eps.png" width="60" height="60" />](https://github.com/Diaspora-for-Android/dandelion/)
+[<img src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" data-canonical-src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" width="60" height="60" />](https://github.com/Diaspora-for-Android/dandelion/)
 
 Currently I'm maintainig the dandelion\* (inofficial) Android app for the social network [diaspora\*](https://diasporafoundation.org/) together with [@gsantner](https://gsantner.github.io/).
 I spend many hours in enhancing the overall experience of the app by adding features like proxy support and sharing functionalities.
@@ -39,7 +39,7 @@ Also I spiced up the UI by implementing customizable color themes and animated f
 ### **EnigmAndroid**
 
 [![F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)](https://f-droid.org/repository/browse/?fdid=de.vanitasvitae.enigmandroid) 
-[<img src="http://vectorlogofree.com/wp-content/uploads/2014/04/24233-github-logo-in-a-rounded-square-icon-vector-icon-vector-eps.png" data-canonical-src="http://vectorlogofree.com/wp-content/uploads/2014/04/24233-github-logo-in-a-rounded-square-icon-vector-icon-vector-eps.png" width="60" height="60" />](https://github.com/vanitasvitae/EnigmAndroid)
+[<img src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" data-canonical-src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" width="60" height="60" />](https://github.com/vanitasvitae/EnigmAndroid)
 
 A simulation of the Enigma machine for Android. I reverse engineered the mechanics of the cipher machine from Wikipedia articles and tested the interoperability using an online simulator.
 The app is written in java as most of my projects are.
