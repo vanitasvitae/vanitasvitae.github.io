@@ -10,7 +10,7 @@ I'm working on some free software projects in my spare time. In my opinion free 
 
 [<img src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" data-canonical-src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" width="60" height="60" />](https://github.com/vanitasvitae/smack-omemo)
 
-This is my most recent project that started as part of my bachelors thesis.
+This is my most recent project that started as part of my [bachelors thesis](https://github.com/vanitasvitae/vanitasvitae.github.io/raw/master/bachelorthesis.pdf).
 smack-omemo is an implementation of [OMEMO](https://conversations.im/omemo/) encryption for the XMPP library [Smack](https://igniterealtime.org/projects/smack/index.jsp). I chose this as the topic of my bachelors thesis, since I'm very interested in cryptography and I believe, that using strong encryption is necessary for a functional democracy. Implementing this functionality is my political activism against the growing surveillance state.
 
 The project is split into two parts. First there is [smack-omemo](https://github.com/vanitasvitae/smack-omemo), which encapsulates the XMPP logic and stanza elements. This module does not contain any code related to the double ratchet algorithm as used in the Signal protocol, which OMEMO is based on. Instead it defines some interfaces and abstract methods.
