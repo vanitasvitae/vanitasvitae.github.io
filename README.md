@@ -1,6 +1,6 @@
 ## Welcome
 
-I am a free software developer and computer science student from Germany.
+My name is Paul Schaub, I am a free software developer and computer science student from Germany.
 
 ## Projects
 
@@ -22,8 +22,6 @@ I had to split the project, since libsignal-protocol-java is licensed under the 
 Here you can find the code. Contributors are welcome :)
 
 [smack-omemo](https://github.com/vanitasvitae/smack-omemo), [smack-omemo-signal](https://github.com/vanitasvitae/smack-omemo-signal).
-
-Later I'll add my bachelors thesis here as well.
 
 ### **dandelion\***
 
@@ -47,6 +45,12 @@ The app is written in java as most of my projects are.
 EnigmAndroid is available on FDroid only, since I want to support free software and do not agree with Googles politics.
 
 If you are interested, please feel free to [check it out](https://github.com/vanitasvitae/EnigmAndroid) :)
+
+## Other work
+
+I wrote my bachelors thesis about OMEMO encryption (in German). Here you can take a look for yourselves.
+
+[Bachelors thesis - OMEMO encryption](https://github.com/vanitasvitae/vanitasvitae.github.io/raw/master/bachelorthesis.pdf)
 
 ## Contact me
 
