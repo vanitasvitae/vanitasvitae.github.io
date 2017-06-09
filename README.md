@@ -48,9 +48,17 @@ If you are interested, please feel free to [check it out](https://github.com/van
 
 ## Other work
 
+### Bachelors Thesis
+
 I wrote my bachelors thesis about OMEMO encryption (in German). Here you can take a look for yourselves.
 
 [Bachelors thesis - OMEMO encryption](https://github.com/vanitasvitae/vanitasvitae.github.io/raw/master/bachelorthesis.pdf)
+
+### Google Summer of Code
+
+I'm participating in the Google Summer of Code as a student for the XMPP Standards Foundation. I'm contributing to Ignite Realtime's Smack project to implement Jingle 
+File Transfer (XEP-0234) combined with end-to-end encryption.
+
 
 ## Contact me
 
