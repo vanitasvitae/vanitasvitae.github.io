@@ -23,6 +23,15 @@ Here you can find the code. Contributors are welcome :)
 
 [smack-omemo](https://github.com/vanitasvitae/smack-omemo), [smack-omemo-signal](https://github.com/vanitasvitae/smack-omemo-signal).
 
+### **HomeMadeOMEMO**
+
+As a reaction to the german interior ministers decision to allow government spying on popular messengers, I wrote a tutorial in which I show, how easy it is, to create an OMEMO encrypted messenger in 
+less than 200 lines of Java code. This is my political resistance against a dangerous decision made out of either malice or plain stupidity. The tutorial can be found 
+[here](https://blogs.fsfe.org/vanitasvitae/2017/06/14/homemo/), while the source code is hosted [here (FSFE)](https://git.fsfe.org/vanitasvitae/HomeMadeOmemo) or [here 
+(Github)](https://github.com/vanitasvitae/HomeMadeOMEMO).
+
+When the government fails (or refuses) to protect your communications, you'll have to take action yourselves.
+
 ### **dandelion\***
 
 [![F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)](https://f-droid.org/repository/browse/?fdid=com.github.dfa.diaspora_android) 
