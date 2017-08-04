@@ -74,7 +74,7 @@ File Transfer (XEP-0234) combined with end-to-end encryption.
 If you want to get in touch with me, you can find me on [diaspora\*](https://pod.geraspora.de/people/bbd7af90fbec013213e34860008dbc6c) or [GNU Social](https://gnusocial.de/vanitasvitae).
 I'm also a member of the FSFE, so if you want to send me a mail, feel free to [do so](mailto:vanitasvitae@fsfe.org). Here you can find my [PGP-Key](https://raw.githubusercontent.com/vanitasvitae/vanitasvitae.github.io/master/vanitasvitae.asc). 
 
-You can also reach out to me via XMPP: [vanitasvitae@jabberhead.tk](xmpp:vanitasvitae@jabberhead.tk?otr-fingerprint=811b9618014cdd1e610c63dc33a02560cd0e9215;omemo-sid-1057050797=c758975a5960aace88d6c3353630da8c553281f3871b181b06d7eb55478a9155;omemo-sid-1953869954=4092df9c2cca9c9fe8fd567794be1838b4c16e17449f36b1bfd6ed866f819f73;omemo-sid-868104676=abb94daf3c443ad505bf9c368494bf853cbac9e888bb66cc322c7cbe4afc2559) ([QR-Code](https://raw.githubusercontent.com/vanitasvitae/vanitasvitae.github.io/master/xmpp.jpg)). 
+You can also reach out to me via XMPP: [vanitasvitae@jabberhead.tk](xmpp:vanitasvitae@jabberhead.tk?otr-fingerprint=811b9618014cdd1e610c63dc33a02560cd0e9215;omemo-sid-1057050797=c758975a5960aace88d6c3353630da8c553281f3871b181b06d7eb55478a9155;omemo-sid-1953869954=4092df9c2cca9c9fe8fd567794be1838b4c16e17449f36b1bfd6ed866f819f73;omemo-sid-868104676=abb94daf3c443ad505bf9c368494bf853cbac9e888bb66cc322c7cbe4afc2559;omemo-sid-1876727638=a5a0e00dac371809c6f64e3e5cafd0f449ed089d027da43e74ce4260f88b1417) ([QR-Code](https://raw.githubusercontent.com/vanitasvitae/vanitasvitae.github.io/master/xmpp.jpg)). 
 
 
 If you want, you can support my work by donating [bitcoins](bitcoin:17Ecq3uymY9HryCnZcX6Z3jAvwgt3mFJxm) ;).
