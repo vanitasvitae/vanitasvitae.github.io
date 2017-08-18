@@ -66,7 +66,7 @@ I wrote my bachelors thesis about OMEMO encryption (in German). Here you can tak
 ### Google Summer of Code
 
 I'm participating in the Google Summer of Code as a student for the XMPP Standards Foundation. I'm contributing to Ignite Realtime's Smack project to implement Jingle 
-File Transfer (XEP-0234) combined with end-to-end encryption.
+File Transfer (XEP-0234) combined with end-to-end encryption. The project page with an overview of my work can be found [here](https://vanitasvitae.github.io/GSOC2017).
 
 
 ## Contact me
