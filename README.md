@@ -10,7 +10,7 @@ I'm working on some free software projects in my spare time. In my opinion free 
 
 [<img src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" data-canonical-src="https://github.com/vanitasvitae/vanitasvitae.github.io/blob/master/git.png?raw=true" width="60" height="60" />](https://github.com/vanitasvitae/smack-omemo)
 
-This is my most recent project that started as part of my [bachelors thesis](https://github.com/vanitasvitae/vanitasvitae.github.io/raw/master/bachelorthesis.pdf).
+This project started as part of my [bachelors thesis](https://github.com/vanitasvitae/vanitasvitae.github.io/raw/master/bachelorthesis.pdf).
 smack-omemo is an implementation of [OMEMO](https://conversations.im/omemo/) encryption for the XMPP library [Smack](https://igniterealtime.org/projects/smack/index.jsp). I chose this as the topic of my bachelors thesis, since I'm very interested in cryptography and I believe, that using strong encryption is necessary for a functional democracy. Implementing this functionality is my political activism against the growing surveillance state.
 
 The project is split into two parts. First there is [smack-omemo](https://github.com/vanitasvitae/smack-omemo), which encapsulates the XMPP logic and stanza elements. This module does not contain any code related to the double ratchet algorithm as used in the Signal protocol, which OMEMO is based on. Instead it defines some interfaces and abstract methods.
@@ -31,6 +31,20 @@ less than 200 lines of Java code. This is my political resistance against a dang
 (Github)](https://github.com/vanitasvitae/HomeMadeOMEMO).
 
 When the government fails (or refuses) to protect your communications, you'll have to take action yourselves.
+
+### **smack-openpgp**
+
+As part of my [Google Summer of Code 2018 project](https://vanitasvitae.github.io/GSOC2018), I created an implementation of [XEP-0373](https://xmpp.org/extensions/xep-0373.html) and [XEP-0374](https://xmpp.org/extensions/xep-0374.html) *OpenPGP for XMPP: Instant Messaging* for Smack. Together with smack-omemo, this is the second end-to-end encryption implementation I wrote and the second one included in Smack.
+
+The code for smack-openpgp can be found [here](https://github.com/vanitasvitae/Smack/tree/openpgp).
+
+### **PGPainless**
+
+Since I needed an easy to use OpenPGP library for java and Android for my GSoC 2018 project, I created PGPainless ([https://pgpainless.org](https://www.pgpainless.org)).
+
+PGPainless aims to be as simple to use as possible, while offering all functionality that is needed when dealing with OpenPGP encryption.
+
+The projects repository is found [here](https://github.com/pgpainless/pgpainless).
 
 ### **dandelion\***
 
@@ -66,13 +80,18 @@ I wrote my bachelors thesis about OMEMO encryption (in German). Here you can tak
 
 ### Summer of Code 2017
 
-I participated in the Google Summer of Code as a student for the XMPP Standards Foundation. I contributed to Ignite Realtime's Smack project to implement Jingle 
-File Transfer (XEP-0234) combined with end-to-end encryption. The project page with an overview of my work can be found [here](https://vanitasvitae.github.io/GSOC2017).
+I participated in the Google Summer of Code as a student for the XMPP Standards Foundation. I contributed to Ignite Realtime's Smack project to implement Jingle File Transfer (XEP-0234) combined with end-to-end encryption.
+
+My work resulted amongst other things in two XMPP Extension Protocols, [XEP-0391](https://xmpp.org/extensions/xep-0391.html) and [XEP-0396](https://xmpp.org/extensions/xep-0396.html).
+
+The project page with an overview of my work can be found [here](https://vanitasvitae.github.io/GSOC2017), all related blog posts can be found [here](https://blogs.fsfe.org/vanitasvitae/category/gsoc-2017/).
 
 ### Summer of Code 2018
 
-This year I got another opportunity to work full time on Smack for 3 months. This time my project is an implementation of OpenPGP for XMPP (XEP-0373 and XEP-0374) for Smack.
-As you can see, I really like cryptography ;) The project page can be found [here](https://vanitasvitae.github.io/GSOC2018).
+This year I got another opportunity to work full time on Smack for 3 months. This time my project is an implementation of OpenPGP for XMPP ([XEP-0373](https://xmpp.org/extensions/xep-0373.html) and [XEP-0374](https://xmpp.org/extensions/xep-0374.html)) for Smack.
+As you can see, I really like cryptography ;)
+
+The project page can be found [here](https://vanitasvitae.github.io/GSOC2018), all related blog posts are found [here](https://blogs.fsfe.org/vanitasvitae/category/gsoc-2018/).
 
 ## My Blog
 
