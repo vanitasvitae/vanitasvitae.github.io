@@ -95,11 +95,11 @@ The project page can be found [here](https://vanitasvitae.github.io/GSOC2018), a
 
 ## My Blog
 
-I'm very actively blogging about my free software advantures. If you want to follow my work, take a look at [my blog](https://blogs.fsfe.org/vanitasvitae/).
+I'm very actively blogging about my free software advantures. If you want to follow my work, take a look at [my blog](https://blog.jabberhead.tk).
 
 ## Contact me
 
-If you want to get in touch with me, you can find me on [mastodon](https://mastodon.freifunk-muensterland.de/@vanitasvitae).
+If you want to get in touch with me, you can find me on [mastodon](https://fosstodon.org/@vanitasvitae).
 I'm also a supporter of the FSFE, so if you want to send me a mail, feel free to [do so](mailto:vanitasvitae@fsfe.org). Here you can find my 
 [PGP-Key](https://raw.githubusercontent.com/vanitasvitae/vanitasvitae.github.io/master/vanitasvitae.asc). 
 
